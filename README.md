@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @NikoTheProgrammingPolyglot
+- 👀 I’m interested in learning 10 programming languages
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me : Email: nikolay.atlasit@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I now know 7 programming languages
